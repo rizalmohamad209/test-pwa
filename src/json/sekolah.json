@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "SMPN 1 Slawi",
+        "alamat": "JL R.A Kartini no.32"
+    },
+    {
+        "id": 2,
+        "name": "SMPN 2 Slawi",
+        "alamat": "JL Gadjah Mada no.72"
+    },
+    {
+        "id": 3,
+        "name": "SMPN 3 Slawi",
+        "alamat": "JL Ahmad Yani no.67"
+    },
+    {
+        "id": 4,
+        "name": "SMPN 1 Balapulang",
+        "alamat": "JL Raya Balapulang no.50"
+    },
+    {
+        "id": 5,
+        "name": "SMPN 2 Pangkah",
+        "alamat": "JL Raya Pangkah no.5"
+    },
+    {
+        "id": 6,
+        "name": "SMPN 1 Dukuwaru",
+        "alamat": "JL Raya Dukuwaru no.10"
+    },
+    {
+        "id": 7,
+        "name": "SMPN 1 Balapulang",
+        "alamat": "JL Raya Balapulang no.50"
+    },
+    {
+        "id": 8,
+        "name": "SMPN 2 Pangkah",
+        "alamat": "JL Raya Pangkah no.5"
+    },
+    {
+        "id": 9,
+        "name": "SMPN 1 Dukuwaru",
+        "alamat": "JL Raya Dukuwaru no.10"
+    }
+]
